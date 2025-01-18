@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a versatile developer passionate about craftin
 - DevOps & Cloud Computing  
 - Modern Web Frameworks (React, Svelte, etc.)  
 
-## 🌱 I’m currently learning
+## 🌱 I specialize in
 - Advanced C# and .NET 8  
 - React & Svelte for modern front-end development  
 - Node.js for scalable server-side applications  
